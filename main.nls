@@ -1,0 +1,29 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{AP}]\begingroup Access Point\nomeqref {3.0}\nompageref{7}
+  \item [{DTW}]\begingroup Dynamic Time Warping\nomeqref {3.0}
+		\nompageref{7}
+  \item [{GP}]\begingroup Gaussian Process\nomeqref {3.0}\nompageref{7}
+  \item [{GPS}]\begingroup Global Positioning System\nomeqref {3.0}
+		\nompageref{7}
+  \item [{IMU}]\begingroup Inertial Measurement Units\nomeqref {3.0}
+		\nompageref{7}
+  \item [{IPS}]\begingroup Indoor Positioning System\nomeqref {3.0}
+		\nompageref{7}
+  \item [{LBS}]\begingroup Location Based Service\nomeqref {3.0}
+		\nompageref{7}
+  \item [{MCS}]\begingroup Mobile Crowdsensing\nomeqref {3.0}
+		\nompageref{7}
+  \item [{MEMS}]\begingroup Micro Elecro-Mechanical Systems\nomeqref {3.0}
+		\nompageref{7}
+  \item [{PDR}]\begingroup Pedestrian Dead Reckoning\nomeqref {3.0}
+		\nompageref{7}
+  \item [{QR}]\begingroup Quick Response\nomeqref {3.0}\nompageref{7}
+  \item [{RSS}]\begingroup Received Signal Strength\nomeqref {3.0}
+		\nompageref{7}
+  \item [{VLC}]\begingroup Visible Light Communication\nomeqref {3.0}
+		\nompageref{7}
+
+\end{thenomenclature}
